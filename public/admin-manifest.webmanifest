@@ -1,0 +1,21 @@
+{
+  "name": "MaisonCare Admin",
+  "short_name": "MC Admin",
+  "description": "Nanny & MaisonCare Lëtzebuerg Administrator & Real-Time Notifications Portal",
+  "start_url": "/admin",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#002B0C",
+  "theme_color": "#002B0C",
+  "categories": ["business", "productivity"],
+  "icons": [
+    {
+      "src": "/images/logo.png",
+      "sizes": "192x192 512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
+

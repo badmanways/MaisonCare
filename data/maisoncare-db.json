@@ -1,0 +1,1051 @@
+{
+  "reviews": [
+    {
+      "id": "rev-1",
+      "name": "Sophie & Marc Schmit",
+      "role": "Kirchberg, Luxembourg",
+      "text": "MaisonCare have been doing an amazing job with helping raise our kids! Our life has been so much easier since we hired a trilingual nanny through them for after-school care.",
+      "rating": 5,
+      "roleDe": "Kirchberg, Luxemburg",
+      "roleFr": "Kirchberg, Luxembourg",
+      "status": "APPROVED",
+      "textDe": "MaisonCare leistet fantastische Arbeit bei der Betreuung unserer Kinder! Unser Alltag ist so viel einfacher geworden, seit wir über die Agentur eine dreisprachige Nanny für die Nachmittagsbetreuung engagiert haben.",
+      "textFr": "MaisonCare fait un travail formidable pour nous aider à élever nos enfants ! Notre quotidien est tellement plus serein depuis que nous avons engagé une nounou trilingue pour la garde après l'école.",
+      "avatarUrl": "",
+      "createdAt": "2026-10-29T15:04:31.643Z"
+    },
+    {
+      "id": "rev-2",
+      "name": "Elena Rostova",
+      "role": "Belair, Luxembourg",
+      "text": "Absolute discretion and reliability. Their household cleaning and laundry organisation specialist keeps our residence spotless every week without us ever worrying about logistics.",
+      "rating": 5,
+      "roleDe": "Belair, Luxemburg",
+      "roleFr": "Belair, Luxembourg",
+      "status": "APPROVED",
+      "textDe": "Absolute Diskretion und Zuverlässigkeit. Die Fachkraft für Haushaltsreinigung und Wäschepflege hält unser Anwesen jede Woche makellos sauber, ohne dass wir uns um logistische Details kümmern müssen.",
+      "textFr": "Discrétion absolue et fiabilité exemplaire. Leur spécialiste du ménage et de l'entretien du linge garde notre résidence impeccable chaque semaine sans aucun souci logistique.",
+      "avatarUrl": "",
+      "createdAt": "2026-10-30T15:04:31.643Z"
+    },
+    {
+      "id": "rev-3",
+      "name": "Thomas Van Der Berg",
+      "role": "Strassen, Luxembourg",
+      "text": "We needed both senior home assistance for my mother and occasional pet sitting when travelling. Having a single point of contact in Luxembourg has been priceless.",
+      "rating": 5,
+      "roleDe": "Strassen, Luxemburg",
+      "roleFr": "Strassen, Luxembourg",
+      "status": "APPROVED",
+      "textDe": "Wir benötigten sowohl Seniorenbetreuung zu Hause für meine Mutter als auch gelegentliches Pet-Sitting bei Reisen. Einen einzigen verlässlichen Ansprechpartner in Luxemburg zu haben, ist unbezahlbar.",
+      "textFr": "Nous avions besoin à la fois d'une assistance à domicile pour ma mère et de garde d'animaux lors de nos déplacements. Avoir un interlocuteur unique au Luxembourg est inestimable.",
+      "avatarUrl": "",
+      "createdAt": "2026-10-31T15:04:31.643Z"
+    },
+    {
+      "id": "rev-4",
+      "name": "Claire & Julien Weber",
+      "role": "Limpertsberg, Luxembourg",
+      "text": "MaisonCare have been doing an amazing job with helping raise my kids! My life has been so much easier since I hired them to help with childcare and daily meal prep.",
+      "rating": 5,
+      "roleDe": "Limpertsberg, Luxemburg",
+      "roleFr": "Limpertsberg, Luxembourg",
+      "status": "APPROVED",
+      "textDe": "MaisonCare leistet hervorragende Unterstützung bei der Betreuung unserer Kinder! Mein Leben ist so viel entspannter, seit sie uns bei der Kinderbetreuung und der täglichen Essenszubereitung unterstützen.",
+      "textFr": "MaisonCare fait un travail remarquable pour nous épauler avec les enfants ! Mon quotidien est tellement plus facile depuis que je fais appel à eux pour la garde et les repas quotidiens.",
+      "avatarUrl": "",
+      "createdAt": "2026-11-01T15:04:31.643Z"
+    },
+    {
+      "id": "rev-5",
+      "name": "Amélie Becker",
+      "role": "Mamer, Luxembourg",
+      "text": "Our weekend call-in nanny was wonderful with our twins. Highly recommend Nanny & MaisonCare Lëtzebuerg to any international family in the Grand Duchy!",
+      "rating": 5,
+      "roleDe": "Mamer, Luxemburg",
+      "roleFr": "Mamer, Luxembourg",
+      "status": "PENDING",
+      "textDe": "Unsere Wochenend-Nanny auf Abruf war wunderbar mit unseren Zwillingen. Ich kann Nanny & MaisonCare Lëtzebuerg jeder internationalen Familie im Großherzogtum wärmstens empfehlen!",
+      "textFr": "Notre nounou ponctuelle du week-end a été formidable avec nos jumeaux. Je recommande vivement Nanny & MaisonCare Lëtzebuerg à toute famille internationale au Grand-Duché !",
+      "avatarUrl": "",
+      "createdAt": "2026-11-02T14:19:31.643Z"
+    }
+  ],
+  "bookings": [
+    {
+      "id": "bk-1793634146332",
+      "name": "Sophie Weber",
+      "email": "sophie.weber@example.lu",
+      "phone": "+352 621 998 877",
+      "status": "NEW",
+      "replies": [],
+      "category": "Nanny & Childcare",
+      "location": "Luxembourg-Kirchberg",
+      "services": [
+        "Bilingual French/English Nanny",
+        "Homework Supervision"
+      ],
+      "createdAt": "2026-11-02T15:42:26.332Z",
+      "frequency": "recurring",
+      "startTime": "08:30",
+      "customNotes": "Looking for an experienced educator for two kids aged 4 and 7.",
+      "serviceDate": "2026-11-10",
+      "categorySlug": "nanny-childcare",
+      "durationHours": "4-6 hours"
+    },
+    {
+      "id": "bk-1793632372197",
+      "name": "Ayomide Lawal",
+      "email": "ayolawal19@gmail.com",
+      "phone": "",
+      "status": "NEW",
+      "replies": [],
+      "category": "MaisonCare Nanny & Childcare",
+      "location": "Luxembourg",
+      "services": [
+        "Twins & Multiple-Child Care"
+      ],
+      "createdAt": "2026-11-02T15:12:52.197Z",
+      "frequency": "once",
+      "startTime": "Flexible",
+      "petDetails": {
+        "petType": "Dog / Puppy",
+        "petsCount": "1",
+        "petSetting": "Pet Care at My Home",
+        "meetAndGreet": "Yes",
+        "petNamesAndBreed": ""
+      },
+      "customNotes": "[Nanny & Childcare Request]\nArrangement: \nChildren: 1 (Ages: Not specified)\nClient Instructions: g",
+      "serviceDate": "2026-11-02",
+      "categorySlug": "nanny",
+      "childDetails": {
+        "schoolName": "",
+        "childrenAges": "",
+        "childrenCount": "1",
+        "specialCareNeeds": ""
+      },
+      "premisesType": "Home / Residential",
+      "durationHours": "Flexible / to discuss",
+      "propertyDetails": {
+        "bedrooms": "2",
+        "bathrooms": "1",
+        "approxSize": "",
+        "businessName": "",
+        "propertyType": "Apartment",
+        "cleaningAreas": [
+          "Kitchen",
+          "Bathrooms",
+          "Living areas"
+        ],
+        "furnishedStatus": "Furnished",
+        "suppliesAvailable": "Yes"
+      },
+      "specificDetails": {
+        "seniorNeeds": [
+          "Companionship",
+          "Everyday routine support"
+        ],
+        "callInUrgency": "Within 24-48 hours",
+        "completingFor": "Representative / Self",
+        "homeHelpTasks": [
+          "Meal Preparation",
+          "Laundry & Ironing"
+        ],
+        "mobilityNotes": "",
+        "recipientName": "",
+        "seniorSetting": "Customer's home",
+        "careArrangement": "Live-out"
+      },
+      "preferredContactMethod": "WhatsApp"
+    },
+    {
+      "id": "bk-1793632308502",
+      "name": "Ayomide Lawal",
+      "email": "ayolawal19@gmail.com",
+      "phone": "",
+      "status": "NEW",
+      "replies": [],
+      "category": "MaisonCare Nanny & Childcare",
+      "location": "Luxembourg",
+      "services": [
+        "Twins & Multiple-Child Care"
+      ],
+      "createdAt": "2026-11-02T15:11:48.502Z",
+      "frequency": "once",
+      "startTime": "Flexible",
+      "petDetails": {
+        "petType": "Dog / Puppy",
+        "petsCount": "1",
+        "petSetting": "Pet Care at My Home",
+        "meetAndGreet": "Yes",
+        "petNamesAndBreed": ""
+      },
+      "customNotes": "[Nanny & Childcare Request]\nArrangement: \nChildren: 1 (Ages: Not specified)\nClient Instructions: g",
+      "serviceDate": "2026-11-02",
+      "categorySlug": "nanny",
+      "childDetails": {
+        "schoolName": "",
+        "childrenAges": "",
+        "childrenCount": "1",
+        "specialCareNeeds": ""
+      },
+      "premisesType": "Home / Residential",
+      "durationHours": "Flexible / to discuss",
+      "propertyDetails": {
+        "bedrooms": "2",
+        "bathrooms": "1",
+        "approxSize": "",
+        "businessName": "",
+        "propertyType": "Apartment",
+        "cleaningAreas": [
+          "Kitchen",
+          "Bathrooms",
+          "Living areas"
+        ],
+        "furnishedStatus": "Furnished",
+        "suppliesAvailable": "Yes"
+      },
+      "specificDetails": {
+        "seniorNeeds": [
+          "Companionship",
+          "Everyday routine support"
+        ],
+        "callInUrgency": "Within 24-48 hours",
+        "completingFor": "Representative / Self",
+        "homeHelpTasks": [
+          "Meal Preparation",
+          "Laundry & Ironing"
+        ],
+        "mobilityNotes": "",
+        "recipientName": "",
+        "seniorSetting": "Customer's home",
+        "careArrangement": "Live-out"
+      },
+      "preferredContactMethod": "WhatsApp"
+    },
+    {
+      "id": "bk-1793632243237",
+      "name": "Ayomide Lawal",
+      "email": "ayolawal19@gmail.com",
+      "phone": "",
+      "status": "NEW",
+      "replies": [],
+      "category": "MaisonCare Senior Care & Home Assistance",
+      "location": "Luxembourg",
+      "services": [
+        "Domestic Help"
+      ],
+      "createdAt": "2026-11-02T15:10:43.237Z",
+      "frequency": "once",
+      "startTime": "Flexible",
+      "petDetails": {
+        "petType": "Dog / Puppy",
+        "petsCount": "1",
+        "petSetting": "Pet Care at My Home",
+        "meetAndGreet": "Yes",
+        "petNamesAndBreed": ""
+      },
+      "customNotes": "[Senior Care & Home Assistance Request]\nRequester:  | Recipient: Self\nSetting: Customer's home\nSupport: Companionship, Everyday routine support\nClient Instructions: hi",
+      "serviceDate": "2026-11-13",
+      "categorySlug": "senior",
+      "childDetails": {
+        "schoolName": "",
+        "childrenAges": "",
+        "childrenCount": "1",
+        "specialCareNeeds": ""
+      },
+      "premisesType": "Home / Residential",
+      "durationHours": "5-6 hours",
+      "propertyDetails": {
+        "bedrooms": "2",
+        "bathrooms": "1",
+        "approxSize": "",
+        "businessName": "",
+        "propertyType": "Apartment",
+        "cleaningAreas": [
+          "Kitchen",
+          "Bathrooms",
+          "Living areas"
+        ],
+        "furnishedStatus": "Furnished",
+        "suppliesAvailable": "Yes"
+      },
+      "specificDetails": {
+        "seniorNeeds": [
+          "Companionship",
+          "Everyday routine support"
+        ],
+        "callInUrgency": "Within 24-48 hours",
+        "completingFor": "Representative / Self",
+        "homeHelpTasks": [
+          "Meal Preparation",
+          "Laundry & Ironing"
+        ],
+        "mobilityNotes": "",
+        "recipientName": "",
+        "seniorSetting": "Customer's home",
+        "careArrangement": "Live-out"
+      },
+      "preferredContactMethod": "WhatsApp"
+    },
+    {
+      "id": "bk-1001",
+      "name": "Camille & Henri Meyers",
+      "email": "c.meyers@example.lu",
+      "phone": "+352 621 440 192",
+      "status": "NEW",
+      "replies": [],
+      "category": "Nanny & Childcare Services",
+      "location": "Kirchberg, Luxembourg",
+      "services": [
+        "After-School Care",
+        "Part-Time Nanny"
+      ],
+      "createdAt": "2026-11-02T13:34:31.643Z",
+      "frequency": "weekly",
+      "startTime": "15:30",
+      "customNotes": "Looking for a French and English speaking nanny to pick up our two children (ages 4 and 7) from European School Kirchberg 4 afternoons per week.",
+      "serviceDate": "2026-11-02",
+      "categorySlug": "nanny",
+      "durationHours": "4"
+    },
+    {
+      "id": "bk-1002",
+      "name": "Dr. Lukas Hoffmann",
+      "email": "l.hoffmann@example.lu",
+      "phone": "+352 691 882 310",
+      "status": "CONFIRMED",
+      "replies": [],
+      "category": "General Household & Commercial Cleaning",
+      "location": "Limpertsberg, Luxembourg",
+      "services": [
+        "Office Cleaning Outside Business Hours",
+        "Bathrooms, Windows & Terraces"
+      ],
+      "createdAt": "2026-11-01T21:04:31.643Z",
+      "frequency": "biweekly",
+      "startTime": "19:00",
+      "customNotes": "Twice-weekly evening cleaning for our private medical practice in Limpertsberg after 19:00 so patient hours are never disrupted.",
+      "serviceDate": "2026-11-05",
+      "categorySlug": "cleaning",
+      "durationHours": "3"
+    }
+  ],
+  "settings": {
+    "agencyPhone": "+352 691 225 764 / +352 691 346 782 / +352 691 347 090",
+    "agencyAddress": "140 Rue de Cessange, Luxembourg",
+    "autoTranslateJobs": true,
+    "adminNotificationEmail": "webadmin@nannymaisoncare.lu"
+  },
+  "aiTickets": [
+    {
+      "id": "tkt-1793634950166",
+      "visitorEmail": "marc.hoffmann@example.lu",
+      "visitorName": "Marc Hoffmann",
+      "language": "en",
+      "questionOrMessage": "Need urgent weekend childcare in Strassen for an infant.",
+      "conversationTranscript": [
+        {
+          "role": "user",
+          "content": "Hello, do you have weekend infant care?"
+        }
+      ],
+      "status": "OPEN",
+      "createdAt": "2026-11-02T15:55:50.166Z",
+      "replies": []
+    },
+    {
+      "id": "tkt-3001",
+      "status": "OPEN",
+      "replies": [],
+      "language": "en",
+      "createdAt": "2026-11-02T13:04:31.643Z",
+      "visitorName": "Martijn Van Outen",
+      "visitorEmail": "m.vanouten@example.lu",
+      "questionOrMessage": "We are relocating from Amsterdam to Senningerberg next month with newborn twins and a Labrador. Can we arrange a combined consultation for both a live-in infant specialist and daytime dog walking?",
+      "conversationTranscript": [
+        {
+          "role": "user",
+          "content": "Do you offer combined live-in newborn twin care and daily dog walking packages in Senningerberg with custom diplomatic billing?"
+        },
+        {
+          "role": "assistant",
+          "content": "We offer both Twins & Multiple-Child Care (including Live-In arrangements) and Dog Walking & Pet Care across Luxembourg. For custom diplomatic billing and a combined package quote, please leave your email and message below so our human Concierge Desk can assist you directly."
+        }
+      ]
+    }
+  ],
+  "alertEvents": [
+    {
+      "type": "TICKET",
+      "title": "💬 MaisonCare CS Ticket: Marc Hoffmann",
+      "body": "Need urgent weekend childcare in Strassen for an infant.",
+      "url": "/admin",
+      "id": "alt-1793634954875-zdv1j",
+      "timestamp": "2026-11-02T15:55:54.875Z",
+      "read": false
+    },
+    {
+      "id": "alt-1793634885882-jqysp",
+      "url": "/admin",
+      "body": "We need regular weekly home care and housekeeping starting next month.",
+      "read": false,
+      "type": "CONTACT",
+      "title": "✉️ New Contact Enquiry: Jean-Paul Meyer",
+      "timestamp": "2026-11-02T15:54:45.882Z"
+    },
+    {
+      "id": "alt-1793634612898-hv1pq",
+      "url": "/admin",
+      "body": "Nanny & Childcare • Bilingual French/English Nanny, Homework Supervision • Luxembourg-Kirchberg",
+      "read": false,
+      "type": "BOOKING",
+      "title": "🔔 New Booking: Sophie Weber",
+      "timestamp": "2026-11-02T15:50:12.898Z"
+    },
+    {
+      "id": "alt-1793632346242-97hnb",
+      "url": "/admin",
+      "body": "Instant phone notifications are active! New bookings, CVs, and AI requests will alert your phone immediately.",
+      "read": false,
+      "type": "BOOKING",
+      "title": "🔔 MaisonCare VIP Alert (Test)",
+      "timestamp": "2026-11-02T15:12:26.242Z"
+    },
+    {
+      "id": "alt-1793632308730-z119u",
+      "url": "/admin",
+      "body": "MaisonCare Nanny & Childcare • Twins & Multiple-Child Care • Luxembourg",
+      "read": false,
+      "type": "BOOKING",
+      "title": "🔔 New Booking: Ayomide Lawal",
+      "timestamp": "2026-11-02T15:11:48.730Z"
+    },
+    {
+      "id": "alt-1793632243508-anhif",
+      "url": "/admin",
+      "body": "MaisonCare Senior Care & Home Assistance • Domestic Help • Luxembourg",
+      "read": false,
+      "type": "BOOKING",
+      "title": "🔔 New Booking: Ayomide Lawal",
+      "timestamp": "2026-11-02T15:10:43.508Z"
+    }
+  ],
+  "jobVacancies": [
+    {
+      "id": "job-1",
+      "type": "Part-time",
+      "tasks": [
+        "Daily care for the youngest son of 3 years old",
+        "Playing, guiding and stimulating his development",
+        "Creating a safe and warm environment",
+        "Supervising eating and snacking moments, taking allergies into account",
+        "Follow naps and daily routines",
+        "Pick up the preschooler from school if necessary",
+        "Vacuuming, mopping, washing, folding and ironing",
+        "Replacing bed linen",
+        "Shopping and stock tracking",
+        "Assist in meal preparation",
+        "Keeping the household orderly and organized",
+        "Taking initiative and seeing work"
+      ],
+      "title": "Experienced nanny / family assistant wanted for a 3-year-old toddler",
+      "salary": "5000",
+      "category": "Nanny & Childcare",
+      "location": "Luxembourg",
+      "schedule": "About 30 hours per week. Working hours mainly between 09.00 and 16.00. On Wednesday, you pick up the youngest from school. During school holidays, the focus shifts to more child guidance instead of household chores.",
+      "fullTitle": "Experienced nanny / family assistant wanted for a 3-year-old toddler",
+      "aboutFamily": "For a committed family in Luxembourg, we are looking for a warm nanny / family assistant who wants to become a permanent value within the family. You support both in the care of their youngest son of 3 years old and in the household and help to ensure that daily family life runs smoothly and organised.",
+      "translations": {
+        "de": {
+          "type": "Teilzeit",
+          "tasks": [
+            "Tägliche Betreuung des 3-jährigen Sohnes",
+            "Spielen, Fördern und altersgerechtes Begleiten",
+            "Schaffung einer sicheren und geborgenen Umgebung",
+            "Begleitung bei Mahlzeiten und Snacks (unter Beachtung von Allergien)",
+            "Einhaltung von Ruhezeiten und Tagesroutinen",
+            "Abholung des Vorschulkindes von der Schule nach Bedarf",
+            "Staubsaugen, Wischen, Waschen, Zusammenlegen und Bügeln",
+            "Wechseln der Bettwäsche",
+            "Einkäufe und Vorratshaltung",
+            "Unterstützung bei der Zubereitung gesunder Mahlzeiten",
+            "Haushalt geordnet und übersichtlich halten",
+            "Eigeninitiative und vorausschauendes Mitdenken"
+          ],
+          "title": "Erfahrene Nanny / Familienassistentin für ein 3-jähriges Kleinkind",
+          "location": "Luxemburg",
+          "schedule": "Ca. 30 Stunden pro Woche. Arbeitszeiten überwiegend zwischen 09:00 und 16:00 Uhr. Mittwochs Abholung des Jüngsten von der Schule. In den Schulferien liegt der Schwerpunkt verstärkt auf der Kinderbegleitung.",
+          "fullTitle": "Erfahrene Nanny / Familienassistentin für ein 3-jähriges Kleinkind gesucht",
+          "aboutFamily": "Für eine engagierte Familie in Luxemburg suchen wir eine herzliche Nanny / Familienassistentin, die eine feste Bezugsperson im Familienalltag werden möchte. Sie betreuen den 3-jährigen Sohn und unterstützen die strukturierte Haushaltsführung.",
+          "whoLookingFor": [
+            "Sie sind herzlich, fürsorglich und engagiert.",
+            "Sie ergreifen Initiative und arbeiten eigenständig.",
+            "Sie sind verantwortungsbewusst, verlässlich und diskret.",
+            "Sie arbeiten strukturiert und haben einen Blick fürs Detail.",
+            "Sie kommunizieren klar und respektvoll.",
+            "Sie begleiten Kinder geduldig und auf Augenhöhe.",
+            "Sie legen großen Wert auf Ordnung, Sauberkeit und Hygiene.",
+            "Sie sprechen fließend Französisch.",
+            "Sie besitzen einen Führerschein und ein eigenes Auto.",
+            "Sie streben eine langfristige Zusammenarbeit in einer Familie an."
+          ]
+        },
+        "fr": {
+          "type": "Temps partiel",
+          "tasks": [
+            "Soins quotidiens pour le plus jeune fils de 3 ans",
+            "Jeux, éveil et stimulation de son développement",
+            "Création d'un environnement sécurisant et chaleureux",
+            "Supervision des repas et collations (prise en compte des allergies)",
+            "Respect des siestes et des routines quotidiennes",
+            "Sortie d'école de l'enfant en maternelle si nécessaire",
+            "Aspirateur, lavage des sols, lessive, pliage et repassage",
+            "Changement du linge de lit",
+            "Courses et gestion des stocks alimentaires",
+            "Aide à la préparation des repas",
+            "Maintien de l'ordre et de la propreté du foyer",
+            "Prise d'initiative et sens de l'observation"
+          ],
+          "title": "Nounou expérimentée / assistante familiale pour enfant de 3 ans",
+          "location": "Luxembourg",
+          "schedule": "Environ 30 heures par semaine. Horaires principalement entre 09h00 et 16h00. Le mercredi, sortie d'école pour le plus jeune. Durant les vacances scolaires, l'accent est mis sur l'éveil et l'accompagnement des enfants plutôt que sur les tâches ménagères.",
+          "fullTitle": "Nounou expérimentée / assistante familiale pour un enfant de 3 ans",
+          "aboutFamily": "Pour une famille investie au Luxembourg, nous recherchons une nounou / assistante familiale chaleureuse souhaitant s’inscrire dans la durée. Vous accompagnez leur plus jeune fils de 3 ans et veillez à l’organisation fluide et harmonieuse de la maison.",
+          "whoLookingFor": [
+            "Vous êtes chaleureuse, bienveillante et impliquée.",
+            "Vous prenez des initiatives et travaillez de manière autonome.",
+            "Vous êtes responsable, fiable et discrète.",
+            "Vous travaillez avec rigueur et savez anticiper les besoins.",
+            "Vous communiquez avec clarté et respect.",
+            "Vous guidez les enfants de façon patiente et positive.",
+            "Vous avez le sens de l'ordre, de la propreté et de l'hygiène.",
+            "Vous parlez couramment le français.",
+            "Vous possédez le permis de conduire et votre propre véhicule.",
+            "Vous recherchez une collaboration à long terme dans une famille."
+          ]
+        }
+      },
+      "whoLookingFor": [
+        "You are warm, caring and involved.",
+        "You take initiative and work independently.",
+        "You are responsible, reliable and discreet.",
+        "You work in an organized way and see work.",
+        "You communicate clearly and respectfully.",
+        "You guide children in a positive and patient way.",
+        "You have an eye for order, cleanliness and hygiene.",
+        "You speak French fluently.",
+        "You have a driver's license and your own car.",
+        "You are looking for a long-term cooperation within a family."
+      ]
+    },
+    {
+      "id": "job-2",
+      "type": "Part-time",
+      "tasks": [
+        "Child care: Taking care of the children when they are home from school and nursery",
+        "Playing, guiding and doing enriching activities",
+        "Preparing healthy snacks",
+        "Providing peace and structure",
+        "Light household support: Tidying up and keeping order",
+        "Doing laundry and folding",
+        "Light cleaning tasks (vacuuming, cleaning surfaces)",
+        "Occasional cooking or meal prep",
+        "Organizing living spaces"
+      ],
+      "title": "Become a fixture in the lives of three young children",
+      "salary": "3600",
+      "category": "Nanny & Childcare",
+      "location": "Luxembourg",
+      "schedule": "On average 16 to 18 hours per week: Monday afternoon 13:00 to 18:00, Tuesday afternoon 13:00 to 18:00 (sometimes until 19:00), Wednesday afternoon 12:00 to 17:00, Saturday morning 09:00 to 13:00 (or 2x per month). Extra hours possible during school holidays and free school days. In time, when the twins go to school, the focus will be more on support after school hours (until about 18:00). Flexibility in consultation.",
+      "fullTitle": "Become a fixture in the lives of three young children (4.5yo & 14-month twins)",
+      "aboutFamily": "For an enterprising and loving family in Luxembourg, we are looking for a family assistant. They have three young children: a 4.5-year-old daughter and 14-month-old twins. It is a warm family where structure, peace and involvement are central.",
+      "translations": {
+        "de": {
+          "type": "Teilzeit",
+          "tasks": [
+            "Kinderbetreuung: Betreuung nach Kindergarten und Krippe",
+            "Altersgerechtes Spielen, Fördern und Begleiten",
+            "Zubereitung gesunder Snacks",
+            "Sicherstellung von Ruhe und verlässlichen Routinen",
+            "Leichte Haushaltsunterstützung: Ordnung halten und Aufräumen",
+            "Wäschepflege und Zusammenlegen",
+            "Leichte Reinigungsaufgaben (Staubsaugen, Oberflächenpflege)",
+            "Gelegentliches Kochen oder Vorbereiten von Mahlzeiten",
+            "Wohnbereiche geordnet halten"
+          ],
+          "title": "Werden Sie eine feste Bezugsperson für drei kleine Kinder",
+          "location": "Luxemburg",
+          "schedule": "Durchschnittlich 16 bis 18 Stunden pro Woche: Montag 13-18 Uhr, Dienstag 13-18 Uhr (gelegentlich bis 19 Uhr), Mittwoch 12-17 Uhr, Samstag 09-13 Uhr (oder 2x im Monat). Zusätzliche Stunden in den Schulferien möglich.",
+          "fullTitle": "Werden Sie eine feste Bezugsperson für drei kleine Kinder (4,5 Jahre & 14 Monate alte Zwillinge)",
+          "aboutFamily": "Für eine herzliche und unternehmungslustige Familie in Luxemburg suchen wir eine Familienassistentin für drei kleine Kinder (4,5-jährige Tochter und 14 Monate alte Zwillinge). Ein harmonisches Umfeld, in dem Struktur und Geborgenheit im Fokus stehen.",
+          "whoLookingFor": [
+            "Eine reife, herzliche und proaktive Persönlichkeit.",
+            "Erfahrung mit Kleinkindern (Erfahrung mit mehreren Kleinkindern gleichzeitig von Vorteil).",
+            "Selbstständige Arbeitsweise und Freude an Eigeninitiative.",
+            "Blick für das Wesentliche und Hilfsbereitschaft.",
+            "Fähigkeit, Ruhe und feste Strukturen in den Alltag zu bringen.",
+            "Wunsch nach einer langfristigen Anstellung.",
+            "Ein liebevolles Auftreten wie eine 'zweite Mama/Oma' passt perfekt in diese Familie."
+          ]
+        },
+        "fr": {
+          "type": "Temps partiel",
+          "tasks": [
+            "Garde d'enfants : accueil et soins au retour de l'école et de la crèche",
+            "Jeux, activités d'éveil et accompagnement quotidien",
+            "Préparation de collations saines",
+            "Apport de calme, rythme et sécurité émotionnelle",
+            "Soutien domestique léger : rangement et ordre des pièces",
+            "Gestion du linge et pliage",
+            "Tâches d'entretien légères (aspirateur, surfaces)",
+            "Préparation ponctuelle de repas sains",
+            "Organisation des espaces de jeux et de vie"
+          ],
+          "title": "Devenez un pilier essentiel dans la vie de trois jeunes enfants",
+          "location": "Luxembourg",
+          "schedule": "En moyenne 16 à 18 heures par semaine : lundi 13h-18h, mardi 13h-18h (parfois jusqu'à 19h), mercredi 12h-17h, samedi matin 09h-13h (ou 2x par mois). Heures supplémentaires possibles durant les congés scolaires et jours sans école. Flexibilité en concertation.",
+          "fullTitle": "Devenez un pilier essentiel dans la vie de trois jeunes enfants (4,5 ans & jumeaux de 14 mois)",
+          "aboutFamily": "Pour une famille dynamique et bienveillante à Luxembourg, nous recherchons une assistante familiale. Ils ont trois jeunes enfants : une fille de 4 ans et demi et des jumeaux de 14 mois. Une famille chaleureuse où structure, calme et écoute sont essentiels.",
+          "whoLookingFor": [
+            "Une personne chaleureuse, mature et proactive.",
+            "Expérience confirmée avec les jeunes enfants (expérience avec plusieurs enfants en bas âge appréciée).",
+            "Autonome et sachant prendre des initiatives bienvenues.",
+            "Sens du service et désir sincère d'aider là où le besoin se fait sentir.",
+            "Capacité à instaurer calme, sérénité et structure au foyer.",
+            "Souhait d'un engagement stable et durable.",
+            "Un profil bienveillant de type 'seconde maman / mamie' s'intégrera à merveille."
+          ]
+        }
+      },
+      "whoLookingFor": [
+        "We are looking for a mature, warm and proactive person.",
+        "Experience with young children (experience with several children is a plus).",
+        "Works independently and takes initiative.",
+        "Sees work and likes to help where necessary.",
+        "Can bring peace and structure to a family.",
+        "Wants to make a long-term commitment.",
+        "Someone with a 'second mom/grandma' feeling fits in perfectly here."
+      ]
+    },
+    {
+      "id": "job-3",
+      "type": "Full-time / Live-in",
+      "tasks": [
+        "Daily care of children in a private household",
+        "Preparing children for school and extracurricular activities",
+        "Supervising homework and educational activities in French",
+        "Organizing age-appropriate learning and recreational activities",
+        "Preparing children's healthy meals",
+        "Maintaining children's living areas, clothing, and belongings",
+        "Accompanying children to school, medical appointments, and outings",
+        "Assisting with evening routines and occasional babysitting"
+      ],
+      "title": "French-English-Speaking Live-In Nanny / Childcare Assistant",
+      "salary": "5500",
+      "category": "Nanny & Childcare",
+      "location": "Luxembourg",
+      "schedule": "40 hours per week under a permanent employment contract (CDI). Live-in arrangement with private accommodations provided. Flexible schedule according to family routines.",
+      "fullTitle": "French-English-Speaking Live-In Nanny / Childcare Assistant (CDI 40h)",
+      "aboutFamily": "A private household in Luxembourg is seeking a dedicated, live-in French-English speaking nanny / childcare assistant under a permanent contract (CDI) to provide attentive, nurturing childcare in a private family setting.",
+      "translations": {
+        "de": {
+          "type": "Vollzeit / Live-In",
+          "tasks": [
+            "Tägliche Betreuung der Kinder im Privathaushalt",
+            "Vorbereitung auf Schule und Freizeitaktivitäten",
+            "Hausaufgabenbetreuung und Lernförderung auf Französisch",
+            "Organisation altersgerechter Spiel- und Freizeitaktivitäten",
+            "Zubereitung frischer, kindgerechter Mahlzeiten",
+            "Pflege der Kinderbereiche, Kleidung und persönlichen Dinge",
+            "Begleitung zur Schule, zu Terminen und Ausflügen",
+            "Begleitung der Abendroutine und gelegentliches Babysitting"
+          ],
+          "title": "Französisch-Englischsprachige Live-In Nanny / Betreuungsassistentin (CDI)",
+          "location": "Luxemburg",
+          "schedule": "40 Stunden pro Woche mit unbefristetem Arbeitsvertrag (CDI). Wohnen im Haushalt mit privatem Wohnbereich. Flexible Zeiteinteilung nach Absprache.",
+          "fullTitle": "Französisch-Englischsprachige Live-In Nanny / Betreuungsassistentin (CDI 40 Std.)",
+          "aboutFamily": "Ein gehobener Privathaushalt in Luxemburg sucht eine engagierte, zweisprachige (Französisch/Englisch) Live-In Nanny im Rahmen eines unbefristeten Festvertrags (CDI) für eine liebevolle und zuverlässige Kinderbetreuung.",
+          "whoLookingFor": [
+            "Mindestens 2 Jahre Berufserfahrung in der Kinderbetreuung in Privathaushalten.",
+            "Fließendes Französisch (zwingend erforderlich).",
+            "Gute Englischkenntnisse (weitere Sprachen von Vorteil).",
+            "Hervorragende Referenzen früherer Arbeitgeber.",
+            "Erste-Hilfe-Kenntnisse von Vorteil.",
+            "Verantwortungsbewusst, vertrauenswürdig, geduldig und strukturiert.",
+            "Ausgeprägte pädagogische Fähigkeiten und Herzenswärme.",
+            "Höchste Diskretion und Respekt für die Privatsphäre."
+          ]
+        },
+        "fr": {
+          "type": "Temps plein / Logée",
+          "tasks": [
+            "Soins quotidiens des enfants au sein d'un foyer privé",
+            "Préparation des enfants pour l'école et leurs activités périscolaires",
+            "Aide aux devoirs et activités éducatives en français",
+            "Organisation d'activités ludiques et pédagogiques adaptées à leur âge",
+            "Préparation de repas équilibrés pour les enfants",
+            "Entretien des espaces de vie, vêtements et affaires des enfants",
+            "Accompagnement à l'école, aux rendez-vous médicaux et sorties",
+            "Prise en charge des routines du soir et baby-sitting ponctuel"
+          ],
+          "title": "Nounou / Assistante Maternelle Logée Bilingue Français-Anglais (CDI)",
+          "location": "Luxembourg",
+          "schedule": "40 heures par semaine sous contrat à durée indéterminée (CDI). Formule logée avec logement privé mis à disposition. Horaires flexibles selon les impératifs familiaux.",
+          "fullTitle": "Nounou / Assistante Maternelle Logée Bilingue Français-Anglais (CDI 40h)",
+          "aboutFamily": "Un ménage privé au Luxembourg recherche une nounou / assistante familiale bilingue français-anglais logée sous contrat à durée indéterminée (CDI) pour l'accompagnement complet et bienveillant des enfants.",
+          "whoLookingFor": [
+            "Minimum 2 ans d'expérience professionnelle dans la garde d'enfants au sein d'un environnement familial.",
+            "Excellente maîtrise du français (indispensable).",
+            "Bonne maîtrise de travail de l'anglais (autre langue appréciée).",
+            "Références solides et vérifiables d'anciens employeurs.",
+            "Connaissance des premiers secours appréciée.",
+            "Sens aigu des responsabilités, fiabilité, patience et organisation.",
+            "Compétences éducatives et bienveillance affirmées.",
+            "Respect absolu de la vie privée et discrétion."
+          ]
+        }
+      },
+      "whoLookingFor": [
+        "Minimum 2 years of professional childcare experience in a private family environment.",
+        "Fluency in French (essential).",
+        "Good working knowledge of English (any additional language desirable).",
+        "Strong references from previous employers.",
+        "First-aid knowledge is an asset.",
+        "Responsible, trustworthy, patient, and highly organized.",
+        "Strong childcare, educational, and communication skills.",
+        "High discretion and respect for privacy and confidentiality."
+      ]
+    },
+    {
+      "id": "job-4",
+      "type": "Part-time / Expandable",
+      "tasks": [
+        "Caring for and guiding the children",
+        "Play, organize activities and stimulate development",
+        "Preparing meals and snacks",
+        "Support with daily routines and personal care",
+        "Providing peace and structure",
+        "Incorporate light household and practical tasks",
+        "Help keep the kitchen and living spaces in order",
+        "Independently see what is needed within the family"
+      ],
+      "title": "Will you be the permanent pillar of this young family?",
+      "salary": "4200",
+      "category": "Nanny & Childcare",
+      "location": "Bonnevoie, Luxembourg",
+      "schedule": "You will work 27 hours a week, spread over 3 days, from about 8.30 am to 5.30 pm. The start is ideally February–March, but earlier is possible for the right candidate. Possibility of expansion: This position can be extended to full-time employment of 38 hours per week, if you combine family support with administrative tasks for the company.",
+      "fullTitle": "Permanent Pillar Nanny & Family Assistant (Bonnevoie)",
+      "aboutFamily": "For a warm family in Bonnevoie, Luxembourg, we are looking for a reliable and independent nanny / family assistant who guides the children and supports the family in a practical way. You help ensure peace, structure and a smooth course of the daily family life.",
+      "translations": {
+        "de": {
+          "type": "Teilzeit / Erweiterbar",
+          "tasks": [
+            "Liebevolle Betreuung und Begleitung der Kinder",
+            "Spielen, Aktivitäten gestalten und Entwicklung fördern",
+            "Zubereitung frischer Mahlzeiten und Snacks",
+            "Unterstützung bei täglichen Routinen und Körperpflege",
+            "Struktur, Ruhe und Geborgenheit vermitteln",
+            "Leichte hauswirtschaftliche und praktische Aufgaben übernehmen",
+            "Küche und Wohnräume in ordentlichem Zustand halten",
+            "Vorausschauend erkennen, wo Unterstützung gebraucht wird"
+          ],
+          "title": "Möchten Sie die dauerhafte Stütze dieser jungen Familie werden?",
+          "location": "Bonnevoie, Luxemburg",
+          "schedule": "27 Stunden pro Woche an 3 Tagen von ca. 08:30 bis 17:30 Uhr. Beginn idealerweise Februar-März (früher möglich). Erweiterungsmöglichkeit: Vollzeitbeschäftigung mit 38 Stunden pro Woche bei Kombination mit administrativen Aufgaben für das Familienunternehmen.",
+          "fullTitle": "Dauerhafte Stütze: Nanny & Familienassistentin (Bonnevoie)",
+          "aboutFamily": "Für eine herzliche Familie in Bonnevoie suchen wir eine zuverlässige und eigenständige Nanny / Familienassistentin, die den Kindern Halt gibt und den Alltag der Familie tatkräftig unterstützt.",
+          "whoLookingFor": [
+            "Erfahrung mit Kleinkindern und Neugeborenen.",
+            "Herzliche, ruhige und verlässliche Art.",
+            "Selbstständige Arbeitsweise und Freude an Eigeninitiative.",
+            "Lösungsorientiertes und praktisches Denken.",
+            "Diskretion und Feingefühl für die Bedürfnisse einer Familie.",
+            "Bewusstes Streben nach einer langfristigen Zusammenarbeit."
+          ]
+        },
+        "fr": {
+          "type": "Temps partiel / Évolutif",
+          "tasks": [
+            "Soins attentifs et accompagnement bienveillant des enfants",
+            "Jeux, activités créatives et soutien au développement de l'autonomie",
+            "Préparation des repas et goûters équilibrés",
+            "Accompagnement des routines quotidiennes et soins d'hygiène",
+            "Instauration d'un cadre serein, structurant et sécurisant",
+            "Prise en charge de tâches ménagères légères et pratiques",
+            "Maintien de l'ordre dans la cuisine et les espaces partagés",
+            "Anticipation proactive des besoins du foyer"
+          ],
+          "title": "Serez-vous le pilier permanent de cette jeune famille ?",
+          "location": "Bonnevoie, Luxembourg",
+          "schedule": "27 heures par semaine réparties sur 3 jours (environ 08h30 à 17h30). Début souhaité idéalement février-mars (ou plus tôt pour le bon profil). Possibilité d'évolution : le poste peut évoluer vers un temps plein de 38h/semaine en associant des missions administratives pour l'entreprise familiale.",
+          "fullTitle": "Pilier Permanent Nounou & Assistante Familiale (Bonnevoie)",
+          "aboutFamily": "Pour une famille bienveillante à Bonnevoie, Luxembourg, nous recherchons une nounou / assistante familiale autonome et fiable pour guider les enfants et soutenir la logistique familiale au quotidien avec douceur et efficacité.",
+          "whoLookingFor": [
+            "Expérience avec les jeunes enfants, y compris les nourrissons.",
+            "Personnalité chaleureuse, posée, rassurante et fiable.",
+            "Goût pour le travail autonome et la prise d'initiative.",
+            "Esprit pragmatique et orienté solutions.",
+            "Grande discrétion et perception intuitive des besoins d'une famille.",
+            "Recherche sincère d'une relation de confiance à long terme."
+          ]
+        }
+      },
+      "whoLookingFor": [
+        "You have experience with young children, including newborn babies.",
+        "You are warm, calm and reliable.",
+        "You like to work independently and take initiative.",
+        "You are solution-oriented and practical.",
+        "You are discreet and have a good sense of what a family needs.",
+        "You are consciously looking for a long-term collaboration."
+      ]
+    },
+    {
+      "id": "job-5",
+      "type": "Full-time / Part-time",
+      "tasks": [
+        "Caring for and guiding the children",
+        "Providing structure and peace",
+        "Activities and games with the children",
+        "Preparing meals and snacks",
+        "Practical support within the family and light household chores",
+        "Manage email and calendars",
+        "Organizing and following up on appointments",
+        "Structuring documents and processing administrative tasks",
+        "Providing organizational support to the company from the home"
+      ],
+      "title": "Strong with children and administration? This is your unique combination job",
+      "salary": "4800",
+      "category": "Childcare & Concierge Support",
+      "location": "Strassen, Luxembourg",
+      "schedule": "You work full-time, 38 hours a week. The administrative work is done from the house. The start is ideally November–January, but earlier is possible for the right candidate. Prefer fewer hours? The position can also be filled as a part-time employment of 27 hours per week, spread over three days. In that case, the focus is entirely on child care and family support, without administrative tasks.",
+      "fullTitle": "Childcare & Executive Administrative Assistant (Strassen)",
+      "aboutFamily": "For an enterprising family in Strassen, we are looking for a versatile and reliable candidate who wants to combine childcare and administrative support. You will become an important pillar of support for the family and also support the company from the home.",
+      "translations": {
+        "de": {
+          "type": "Vollzeit / Teilzeit",
+          "tasks": [
+            "Liebevolle Betreuung und Begleitung der Kinder",
+            "Gewährleistung von Ruhe und verlässlicher Struktur",
+            "Fördernde Spiele und Freizeitbeschäftigungen",
+            "Zubereitung von Mahlzeiten und gesunden Snacks",
+            "Praktische Alltagsentlastung und leichte Haushaltsaufgaben",
+            "E-Mail- und Terminkoordination",
+            "Organisation und Nachbereitung von Terminen",
+            "Dokumentenablage und Abwicklung administrativer Vorgänge",
+            "Organisatorische Unterstützung des Unternehmens direkt vom Haus aus"
+          ],
+          "title": "Stark in Kinderbetreuung und Administration? Einzigartige Kombi-Stelle",
+          "location": "Strassen, Luxemburg",
+          "schedule": "Vollzeit mit 38 Wochenstunden (Büroarbeit erfolgt im Privathaus). Beginn idealerweise November-Januar (früher möglich). Weniger Stunden gewünscht? Auch als Teilzeitstelle mit 27 Stunden pro Woche an drei Tagen möglich – in diesem Fall liegt der Schwerpunkt rein auf der Kinderbetreuung ohne Administration.",
+          "fullTitle": "Kinderbetreuung & Administrative Assistenz im Privathaushalt (Strassen)",
+          "aboutFamily": "Für eine unternehmerische Familie in Strassen suchen wir eine vielseitige und verlässliche Persönlichkeit, die Kinderbetreuung mit büroorganisatorischer Assistenz verbindet. Sie werden eine wichtige Stütze im Familienalltag und unterstützen das Unternehmen vom Haus aus.",
+          "whoLookingFor": [
+            "Erfahrung mit Neugeborenen und Kleinkindern.",
+            "Idealerweise Erfahrung im administrativen oder organisatorischen Bereich.",
+            "Digitale Kompetenz und sorgfältige Arbeitsweise.",
+            "Eigeninitiative und selbstständiges Handeln.",
+            "Organisationstalent mit sicherem Gespür für Prioritäten.",
+            "Ruhige, besonnene und lösungsorientierte Grundeinstellung.",
+            "Hohe Diskretion, Zuverlässigkeit und Pflichtbewusstsein.",
+            "Interesse an einer langfristigen partnerschaftlichen Anstellung."
+          ]
+        },
+        "fr": {
+          "type": "Temps plein / Temps partiel",
+          "tasks": [
+            "Soins, éveil et accompagnement des enfants",
+            "Maintien d'un cadre serein et structurant",
+            "Activités d'éveil et jeux interactifs",
+            "Préparation des repas et collations saines",
+            "Soutien pratique au quotidien et tâches ménagères légères",
+            "Gestion des e-mails et agendas électroniques",
+            "Organisation et suivi des rendez-vous",
+            "Classement documentaire et traitement de tâches administratives courantes",
+            "Appui logistique et organisationnel à l'entreprise depuis la résidence"
+          ],
+          "title": "À l'aise avec les enfants et l'administration ? Un poste combiné unique",
+          "location": "Strassen, Luxembourg",
+          "schedule": "Temps plein à 38 heures par semaine (travail administratif effectué depuis le domicile). Début souhaité novembre-janvier (ou plus tôt). Préférence pour moins d'heures ? Ce poste peut également être pourvu à temps partiel (27 heures/semaine sur 3 jours), concentré à 100% sur les enfants et la vie de famille, sans volet administratif.",
+          "fullTitle": "Garde d'Enfants & Assistante Administrative Polyvalente (Strassen)",
+          "aboutFamily": "Pour une famille d'entrepreneurs à Strassen, nous recherchons un profil polyvalent et fiable combinant garde d'enfants et soutien administratif. Vous devenez un pilier essentiel de la famille tout en prêtant main forte à l'entreprise depuis le domicile.",
+          "whoLookingFor": [
+            "Expérience avec les nourrissons et jeunes enfants.",
+            "Expérience préalable souhaitée dans des tâches administratives ou d'organisation.",
+            "Aisance avec les outils numériques et rigueur d'exécution.",
+            "Grande autonomie et sens proactif de l'initiative.",
+            "Excellentes compétences organisationnelles et gestion claire des priorités.",
+            "Tempérament calme, posé et tourné vers les solutions.",
+            "Discrétion, sens des responsabilités et fiabilité à toute épreuve.",
+            "Recherche d'un partenariat de confiance à long terme."
+          ]
+        }
+      },
+      "whoLookingFor": [
+        "You have experience with newborn babies and young children.",
+        "You preferably have experience with administrative or organizational tasks.",
+        "You are digitally skilled and work accurately.",
+        "You work independently and take initiative.",
+        "You are organizationally strong and can set priorities well.",
+        "You are calm and solution-oriented.",
+        "You are discreet, reliable and responsible.",
+        "You are looking for a long-term partnership."
+      ]
+    }
+  ],
+  "knowledgeBase": [
+    {
+      "id": "kb-1",
+      "topic": "5 Main Service Pillars Overview",
+      "keywords": [
+        "service",
+        "services",
+        "render",
+        "offer",
+        "pillars",
+        "proposez",
+        "leistungen",
+        "angebot"
+      ],
+      "contentDe": "Nanny & MaisonCare Lëtzebuerg bietet 5 spezialisierte Leistungssäulen in ganz Luxemburg an: (1) Nanny & Kinderbetreuung (gelegentlich, Vollzeit, Teilzeit, Nachmittagsbetreuung, Säuglinge, Zwillinge, Ferien, Abruf-Nanny, Live-In/Live-Out), (2) Haushalts- & Gewerbereinigung (Wohnungen, Häuser, Büroreinigung außerhalb der Geschäftszeiten, Bauendreinigung, Fenster & Terrassen, Grundreinigung, Umzugsreinigung), (3) Seniorenbetreuung & Alltagshilfe (Hauswirtschaft, Körperpflege, Mahlzeiten, Einkäufe, Begleitung), (4) Tierbetreuung & Pet Sitting (bei Ihnen zu Hause oder beim Tiersitter), sowie (5) Haushaltshilfe & Concierge-Service (Kochen, Einkäufe, Wäsche & Bügeln, Haushaltsorganisation).",
+      "contentEn": "Nanny & MaisonCare Lëtzebuerg offers 5 specialized pillars of care across Luxembourg: (1) Nanny & Childcare Services (Occasional, Full-Time, Part-Time, After-School, Newborn & Infant, Twins/Multiples, Holiday, Call-In/On-Demand, Live-In/Live-Out — focused on care and supervision, not formal academic tutoring), (2) General Household & Commercial Cleaning (Apartments & Houses, Office Cleaning Outside Business Hours, Post-Renovation, Bathrooms/Windows/Terraces, Commercial Premises, Regular/Scheduled, Deep Cleaning, Move-In/Move-Out), (3) Senior Care & Home Assistance (Domestic Help, Personal Care & Hygiene, Meal Preparation, Shopping Assistance, Mobility & Accompaniment), (4) Pet Care & Pet Sitting (at your home or at the sitter's home for dogs, cats, puppies, kittens, rabbits), and (5) Home Help & Concierge Services (Meal Prep & Basic Cooking, Grocery Shopping & Errands, Laundry & Ironing, Home Organisation, Decluttering, Accompaniment).",
+      "contentFr": "Nanny & MaisonCare Lëtzebuerg propose 5 grands piliers de services au Luxembourg : (1) Garde d’Enfants & Nounous (ponctuelle, temps plein, temps partiel, sortie d’école, nourrissons, jumeaux, vacances, sur appel, logée ou externe — centré sur le soin et la supervision), (2) Nettoyage Domestique & Commercial (appartements, maisons, bureaux hors heures d’ouverture, fin de chantier, vitres et terrasses, grand ménage, états des lieux), (3) Aide aux Seniors & Maintien à Domicile (aide ménagère, hygiène personnelle, repas, courses, mobilité), (4) Garde d’Animaux & Pet Sitting (à votre domicile ou chez le pet-sitter), et (5) Aide Ménagère & Conciergerie (cuisine quotidienne, courses, lessive et repassage, rangement et organisation).",
+      "updatedAt": "2026-11-02T15:04:31.633Z"
+    },
+    {
+      "id": "kb-2",
+      "topic": "How to Request a Service & Booking Confirmation",
+      "keywords": [
+        "book",
+        "booking",
+        "request",
+        "price",
+        "pricing",
+        "cost",
+        "confirm",
+        "réserver",
+        "tarif",
+        "prix",
+        "buchen",
+        "anfrage",
+        "kosten",
+        "preise"
+      ],
+      "contentDe": "So stellen Sie eine Service-Anfrage: Klicken Sie auf ‚Service anfragen‘ oder wählen Sie eine unserer 5 Kategorien, wählen Sie die gewünschte Leistung und geben Sie Datum, Startzeit, Stundenzahl, Häufigkeit und Ihren Ort in Luxemburg an. Hinweis: Eine abgesendete Anfrage ist zunächst eine unverbindliche Anfrage. Unser Team kontaktiert Sie zeitnah zur Bestätigung von Verfügbarkeit, Preisen und Ablauf.",
+      "contentEn": "To request a service: click 'Request a Service' or select one of our 5 category cards, choose your specific service type(s) or write a custom request, and specify your preferred date(s), start time, number of hours, frequency, and location in Luxembourg. Please note: a submitted request is an enquiry, not an automatically confirmed booking. Our concierge desk will contact you promptly to discuss your requirements and confirm availability, pricing, and arrangements.",
+      "contentFr": "Pour demander un service : cliquez sur « Demander un Service » ou sur l’une de nos 5 catégories, choisissez le type de prestation souhaité (ou décrivez votre demande sur mesure), puis indiquez la date, l’heure de début, le nombre d’heures, la fréquence et votre commune au Luxembourg. Une demande soumise constitue une prise de contact : notre équipe vous recontacte rapidement pour confirmer les disponibilités, les tarifs et les modalités.",
+      "updatedAt": "2026-11-02T15:04:31.634Z"
+    },
+    {
+      "id": "kb-3",
+      "topic": "Safety, Vetting & Screening Standards",
+      "keywords": [
+        "vetting",
+        "screen",
+        "screening",
+        "safe",
+        "safety",
+        "trust",
+        "background",
+        "criminal",
+        "discretion",
+        "sécurité",
+        "casier",
+        "sicherheit",
+        "prüfung"
+      ],
+      "contentDe": "Jede Fachkraft von Nanny & MaisonCare durchläuft unser mehrstufiges Prüfverfahren: Identitätsprüfung, einwandfreies polizeiliches Führungszeugnis (Extrait de casier judiciaire), geprüfte Referenzen früherer Familien sowie Prüfung der Sprachkompetenz (Deutsch, Französisch, Englisch, Luxemburgisch) und absoluter Diskretion.",
+      "contentEn": "Every Nanny & MaisonCare specialist undergoes our strict multi-layered screening framework: identity and work-authorization verification, clean criminal record check (Extrait de casier judiciaire), verified references from prior households or commercial clients, and assessment of multilingual proficiency (English, French, German, Luxembourgish) and absolute discretion.",
+      "contentFr": "Chaque intervenant Nanny & MaisonCare passe par notre processus de sélection multicouche : vérification d’identité, extrait de casier judiciaire vierge, contrôle des références auprès d’anciens employeurs, évaluation linguistique (français, anglais, allemand, luxembourgeois) et engagement de confidentialité absolue.",
+      "updatedAt": "2026-11-02T15:04:31.634Z"
+    }
+  ],
+  "outboundEmails": [
+    {
+      "id": "em-1793634954593-9xyd",
+      "to": "webadmin@nannymaisoncare.lu",
+      "from": "webadmin@nannymaisoncare.lu",
+      "subject": "[Escalated AI Support Ticket] marc.hoffmann@example.lu (EN)",
+      "body": "An AI Chatbot conversation was escalated to a human Support Ticket:\n\nVisitor Email: marc.hoffmann@example.lu\nLanguage: EN\nSupport Message:\nNeed urgent weekend childcare in Strassen for an infant.\n\n---\nReply directly from the AI Escalation Inbox in the Admin Command Center (/admin).",
+      "contextType": "AI_TICKET_ADMIN_ALERT",
+      "relatedEntityId": "tkt-1793634950166",
+      "sentAt": "2026-11-02T15:55:54.593Z",
+      "deliveryMethod": "SMTP"
+    },
+    {
+      "id": "em-1793634885502-b91h",
+      "to": "webadmin@nannymaisoncare.lu",
+      "body": "New Contact Us message received:\n\nName: Jean-Paul Meyer\nEmail: jeanpaul.meyer@example.lu\n\nMessage:\nWe need regular weekly home care and housekeeping starting next month.",
+      "from": "webadmin@nannymaisoncare.lu",
+      "sentAt": "2026-11-02T15:54:45.502Z",
+      "subject": "[Website Contact Inquiry] From Jean-Paul Meyer",
+      "contextType": "CONTACT_ADMIN_ALERT",
+      "deliveryMethod": "SMTP",
+      "relatedEntityId": "msg-1793634880805"
+    },
+    {
+      "id": "em-1793634612000-cha1",
+      "to": "webadmin@nannymaisoncare.lu",
+      "body": "New Service Enquiry submitted on Nanny & MaisonCare Lëtzebuerg:\n\nClient Name: Sophie Weber\nEmail: sophie.weber@example.lu\nPhone: +352 621 998 877\nCategory: Nanny & Childcare\nSelected Services: Bilingual French/English Nanny, Homework Supervision\nPreferred Date: 2026-11-10\nStart Time: 08:30\nDuration (Hours): 4-6 hours\nFrequency: recurring\nLocation / Commune: Luxembourg-Kirchberg\n\nClient Notes / Custom Request:\nLooking for an experienced educator for two kids aged 4 and 7.\n\n---\nView and reply directly from the Admin Command Center (/admin).",
+      "from": "webadmin@nannymaisoncare.lu",
+      "sentAt": "2026-11-02T15:50:12.000Z",
+      "subject": "[New Service Enquiry] Nanny & Childcare — Sophie Weber",
+      "contextType": "BOOKING_ADMIN_ALERT",
+      "deliveryMethod": "LOCAL_OUTBOX",
+      "relatedEntityId": "bk-1793634146332"
+    },
+    {
+      "id": "em-1793632308728-dk6b",
+      "to": "webadmin@nannymaisoncare.lu",
+      "body": "New Service Enquiry submitted on Nanny & MaisonCare Lëtzebuerg:\n\nClient Name: Ayomide Lawal\nEmail: ayolawal19@gmail.com\nPhone: Not provided\nCategory: MaisonCare Nanny & Childcare\nSelected Services: Twins & Multiple-Child Care\nPreferred Date: 2026-11-02\nStart Time: Flexible\nDuration (Hours): Flexible / to discuss\nFrequency: once\nLocation / Commune: Luxembourg\n\nClient Notes / Custom Request:\n[Nanny & Childcare Request]\nArrangement: \nChildren: 1 (Ages: Not specified)\nClient Instructions: g\n\n---\nView and reply directly from the Admin Command Center (/admin).",
+      "from": "webadmin@nannymaisoncare.lu",
+      "sentAt": "2026-11-02T15:11:48.728Z",
+      "subject": "[New Service Enquiry] MaisonCare Nanny & Childcare — Ayomide Lawal",
+      "contextType": "BOOKING_ADMIN_ALERT",
+      "deliveryMethod": "SMTP",
+      "relatedEntityId": "bk-1793632308502"
+    },
+    {
+      "id": "em-1793632243507-zeo9",
+      "to": "webadmin@nannymaisoncare.lu",
+      "body": "New Service Enquiry submitted on Nanny & MaisonCare Lëtzebuerg:\n\nClient Name: Ayomide Lawal\nEmail: ayolawal19@gmail.com\nPhone: Not provided\nCategory: MaisonCare Senior Care & Home Assistance\nSelected Services: Domestic Help\nPreferred Date: 2026-11-13\nStart Time: Flexible\nDuration (Hours): 5-6 hours\nFrequency: once\nLocation / Commune: Luxembourg\n\nClient Notes / Custom Request:\n[Senior Care & Home Assistance Request]\nRequester:  | Recipient: Self\nSetting: Customer's home\nSupport: Companionship, Everyday routine support\nClient Instructions: hi\n\n---\nView and reply directly from the Admin Command Center (/admin).",
+      "from": "webadmin@nannymaisoncare.lu",
+      "sentAt": "2026-11-02T15:10:43.507Z",
+      "subject": "[New Service Enquiry] MaisonCare Senior Care & Home Assistance — Ayomide Lawal",
+      "contextType": "BOOKING_ADMIN_ALERT",
+      "deliveryMethod": "SMTP",
+      "relatedEntityId": "bk-1793632243237"
+    }
+  ],
+  "contactMessages": [
+    {
+      "id": "msg-1793634880805",
+      "name": "Jean-Paul Meyer",
+      "email": "jeanpaul.meyer@example.lu",
+      "status": "NEW",
+      "message": "We need regular weekly home care and housekeeping starting next month.",
+      "replies": [],
+      "createdAt": "2026-11-02T15:54:40.805Z"
+    }
+  ],
+  "jobApplications": [
+    {
+      "id": "app-2001",
+      "name": "Aline Ferreira",
+      "email": "aline.ferreira@example.lu",
+      "jobId": "job-1",
+      "phone": "+352 661 209 441",
+      "status": "NEW",
+      "replies": [],
+      "jobTitle": "Experienced nanny / family assistant wanted for a 3-year-old toddler",
+      "createdAt": "2026-11-02T11:04:31.643Z",
+      "cvFileName": "Aline_Ferreira_CV_Luxembourg.pdf",
+      "cvMimeType": "application/pdf",
+      "cvSizeBytes": 142800,
+      "cvStoredPath": "sample-aline-cv.pdf",
+      "whyConsidered": "7 years of full-time toddler nanny and family assistant experience in Luxembourg-Ville and Belair. Fluent in French, Portuguese, and English, with my own car and clean driving record.",
+      "expectedSalary": "4800"
+    }
+  ],
+  "adminPushSubscriptions": []
+}

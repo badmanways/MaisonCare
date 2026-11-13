@@ -1,0 +1,43 @@
+.vercel
+
+# dependencies & build output
+node_modules
+node_modules 2
+.next
+out
+*.tsbuildinfo
+next-env.d.ts
+
+# secrets (set these in Vercel → Settings → Environment Variables instead)
+.env
+.env*.local
+
+# local uploads / runtime files
+data/uploads
+
+# OS / design source files
+.DS_Store
+Design Assets
+Images
+
+# dependencies & build output
+node_modules
+node_modules 2
+.next
+out
+*.tsbuildinfo
+next-env.d.ts
+
+# secrets (set these in Vercel → Settings → Environment Variables instead)
+.env
+.env*.local
+
+# local uploads / runtime files
+data/uploads
+
+# OS / design source files
+.DS_Store
+Design Assets
+Images
+
+.env*

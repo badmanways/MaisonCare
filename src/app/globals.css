@@ -1,0 +1,143 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-ink: #242423;
+  --color-subtext: #707070;
+  --color-ivory: #FAF8F5;
+  --color-cream: #FEF7E9;
+  --color-sage: #EEF5EC;
+  --color-gold: #F1AE1F;
+  --color-gold-card: #FBE7BC;
+  --color-green: #005F1B;
+  --color-footer: #002B0C;
+
+  --font-heading: "Geist", -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-body: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    color: var(--color-ink);
+    background-color: var(--color-ivory);
+    font-family: var(--font-body);
+  }
+
+  body {
+    color: var(--color-ink);
+    background-color: var(--color-ivory);
+    font-family: var(--font-body);
+    overflow-x: hidden;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-family: var(--font-heading);
+  }
+}
+
+@layer components {
+  /* Ecosystem of Care Glassmorphism Overlay Card Rule */
+  .glass-ecosystem-overlay {
+    @apply backdrop-blur-md bg-[#F1AE1F]/15 border border-[#F1AE1F]/25 rounded-[20px] p-5 text-[#FAF8F5];
+    box-shadow:
+      0 8px 32px 0 rgba(0, 0, 0, 0.22),
+      inset 0 1px 1px 0 rgba(255, 255, 255, 0.25);
+  }
+
+  /* Mobile Horizontal Card Scrolling (< 768px) */
+  .mobile-horizontal-scroll {
+    @apply flex overflow-x-auto snap-x snap-mandatory gap-4 pb-4 -mx-4 px-4 md:mx-0 md:px-0 md:pb-0 md:overflow-visible;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+  }
+
+  .mobile-horizontal-scroll::-webkit-scrollbar {
+    display: none;
+  }
+
+  .mobile-snap-card {
+    @apply snap-center shrink-0;
+  }
+}
+
+/* Continuous Marquee Animation for Staggered Hero Strip */
+@keyframes heroMarquee {
+  0% {
+    transform: translateX(0%);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+.animate-hero-marquee {
+  display: flex;
+  width: max-content;
+  animation: heroMarquee 36s linear infinite;
+}
+
+.animate-hero-marquee:hover {
+  animation-play-state: paused;
+}
+
+/* WebKit Date/Time Input Mobile Normalization & iOS Safari Touch Fix */
+input[type="date"],
+input[type="time"] {
+  -webkit-appearance: none;
+  appearance: none;
+  box-sizing: border-box;
+  min-width: 0;
+  max-width: 100%;
+}
+
+input[type="date"]::-webkit-date-and-time-value,
+input[type="time"]::-webkit-date-and-time-value {
+  text-align: left;
+  min-height: 1.4em;
+}
+
+/* All form placeholders greyed out by default */
+::placeholder {
+  color: rgba(112, 112, 112, 0.6) !important;
+  opacity: 1 !important;
+}
+
+/* Date & Time Picker default greyed-out when not filled */
+input[type="date"]:not(.has-value),
+input[type="time"]:not(.has-value),
+input[type="date"]:not(.has-value)::-webkit-datetime-edit,
+input[type="time"]:not(.has-value)::-webkit-datetime-edit,
+input[type="date"]:not(.has-value)::-webkit-datetime-edit-fields-wrapper,
+input[type="time"]:not(.has-value)::-webkit-datetime-edit-fields-wrapper,
+input[type="date"]:not(.has-value)::-webkit-datetime-edit-text,
+input[type="time"]:not(.has-value)::-webkit-datetime-edit-text,
+input[type="date"]:not(.has-value)::-webkit-datetime-edit-month-field,
+input[type="time"]:not(.has-value)::-webkit-datetime-edit-hour-field,
+input[type="date"]:not(.has-value)::-webkit-datetime-edit-day-field,
+input[type="time"]:not(.has-value)::-webkit-datetime-edit-minute-field,
+input[type="date"]:not(.has-value)::-webkit-datetime-edit-year-field {
+  color: rgba(112, 112, 112, 0.7) !important;
+}
+
+input[type="date"].has-value,
+input[type="time"].has-value,
+input[type="date"].has-value::-webkit-datetime-edit,
+input[type="time"].has-value::-webkit-datetime-edit {
+  color: #242423 !important;
+}
+
+/* Prevent iOS tap delay, unwanted double-tap zooms, and gesture interference */
+input,
+select,
+textarea,
+button {
+  touch-action: manipulation;
+}
+
